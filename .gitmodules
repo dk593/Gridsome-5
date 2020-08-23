@@ -1,0 +1,12 @@
+[submodule "OneDrive/Desktop 1/PROJECT/themes/Blogpaper"]
+	path = OneDrive/Desktop 1/PROJECT/themes/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper
+[submodule "OneDrive/Desktop 1/Test/themes/Blogpaper"]
+	path = OneDrive/Desktop 1/Test/themes/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper
+[submodule "OneDrive/Desktop 1/Attempt 20/themes/hugo-theme-codex"]
+	path = OneDrive/Desktop 1/Attempt 20/themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "OneDrive/Desktop 1/Attempt 21/themes/Blogpaper"]
+	path = OneDrive/Desktop 1/Attempt 21/themes/Blogpaper
+	url = https://github.com/NormandErwan/Blogpaper
